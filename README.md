@@ -1,4 +1,4 @@
-## Hi there 👋 - 🔭 I’m currently working on training on Github.
+## Hi there 👋 - 🔭 I'm currently working on coding on Github.
 
 <!--
 **EvanslootenMJH/EvanslootenMJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
